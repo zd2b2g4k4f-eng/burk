@@ -1,4 +1,4 @@
-# Moin! I'm [Your Name] 👋
+# Moin! I'm Burk 👋
 
 ### 🌐 Linguist | Web Designer | App Developer
 Based in Neumünster, Germany. I bridge the gap between human language and machine code.
@@ -12,7 +12,7 @@ Since 2021, I've been a freelance writer and web designer. My roots go back to 2
 
 - 🧠 **Expertise:** Natural Language Engineering, UI/UX Design, Semantic HTML.
 - 💻 **Tech Stack:** HTML, CSS, JS, PHP, WordPress, Grav CMS, and now building apps.
-- ✍️ **Writing:** I document my journey on [Substack](your-link) and [Medium](your-link).
+- ✍️ **Writing:** I document my journey on [Substack](https://letters.byburk.net) and [Medium](https://stories.byburk.net).
 
 ---
 
@@ -34,9 +34,9 @@ I’m currently focusing on building apps that don't just work, but *speak* clea
 ---
 
 ## 📬 Connect with Me
-- **Socials:** [Twitter/X](your-link) | [Substack Notes](your-link)
-- **Portfolio:** [stories.byburk.net](https://stories.byburk.net)
-- **Thoughts:** Check out my archive at [letters.byburk.net](https://letters.byburk.net/archive)
+- **Socials:** [Twitter/X](https://x.com/burkr_) | [Substack Notes](https://substack.com/@burk)
+- **Blog:** [stories.byburk.net](https://stories.byburk.net)
+- **Newsletter:** Check out my newsletter at [letters.byburk.net](https://letters.byburk.net/)
 
 ---
 
