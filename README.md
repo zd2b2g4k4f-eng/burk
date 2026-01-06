@@ -19,9 +19,6 @@ Since 2021, I've been a freelance writer and web designer. My roots go back to 2
 ## 🚀 Current Focus: "Vibe Coding" & App Dev
 I’m currently focusing on building apps that don't just work, but *speak* clearly to the user. I use **Anti-Gravity** to code and leverage my linguistic background to build better AI-driven interfaces.
 
-- 🛠️ **Building:** [Briefly mention a current project, e.g., A custom Grav theme or a React app]
-- 🧪 **Experimenting:** NLP prototypes and prompt engineering.
-
 ---
 
 ## 📊 My Digital Garden
